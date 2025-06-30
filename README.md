@@ -1,4 +1,4 @@
-# Zebra
+# Zebra test task
 ## Структура датасета
 ## My_First_Project.v4i.yolov11/
 ### ├── train/
