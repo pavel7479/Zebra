@@ -1,16 +1,16 @@
 # Zebra
 ## Структура датасета
 ## My_First_Project.v4i.yolov11/
-#├── train/
-#│   ├── images/
-#│   ├── labels/
-#├── valid/
-#│   ├── images/
-#│   ├── labels/
-#├── test/
-#│   ├── images/
-#│   ├── labels/
-#├── data.yaml
+### ├── train/
+### │   ├── images/
+### │   ├── labels/
+### ├── valid/
+### │   ├── images/
+### │   ├── labels/
+### ├── test/
+### │   ├── images/
+### │   ├── labels/
+### ├── data.yaml
 
 Код запускается последовательно.
 Внимание обратить на пути:
