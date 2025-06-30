@@ -1,7 +1,6 @@
 # Zebra
-# test_task
-# Структура датасета
-# My_First_Project.v4i.yolov11/
+## Структура датасета
+## My_First_Project.v4i.yolov11/
 #├── train/
 #│   ├── images/
 #│   ├── labels/
